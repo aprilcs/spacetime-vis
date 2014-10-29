@@ -1,0 +1,137 @@
+ProvinceCounty  Town    Pop     Cases   Deaths  MortalitDate.of.Date.of.Day.of.fDay.of.lLAT     LONG    Case.per.pop
+Ulster  Antrim  Antrim      2645     179      24    13.4FebruaryMay 16,       85     16454.71363-6.214286767.486
+Ulster  Antrim  Ballymen    5549     141      54    38.3March 19April 24     106     14254.86538-6.280382540.998
+Ulster  Antrim  Belfast    63625    2705     969    35.8DecemberDecember       1     37454.59728-5.930124251.473
+Ulster  Antrim  Carrickf    9379       0       0       0       0       0       0       054.71373-5.80818       0
+Ulster  Antrim  Larne       3345       0       0       0       0       0       0       0 54.8575-5.80986       0
+Ulster  Antrim  Lisburn     7524     565     196    34.6January June 27,      52     20654.50972 -6.03747509.304
+Ulster  Armagh  Armagh     10245     154      73    4.74FebruaryMay 2, 1      86     15054.34875-6.651611503.172
+Ulster  Armagh  Lurgan      4677     369     116    31.4March 28Septembe     115     278 54.4648-6.336027889.673
+Ulster  Armagh  Newry      13227     139      62    44.6FebruaryJuly 9,       78     21854.18006-6.333931050.881
+Ulster  Armagh  Portadow    2505      42      20    47.3January August 2      57     26954.42193-6.451291676.647
+LeinsterCarlow  Bagnalst    2225      39      22    56.3August 1March 29     257     48152.70311-6.955871752.809
+LeinsterCarlow  Carlow     10409     333     167    50.1July 17,Septembe     226     29052.71898-6.850373199.155
+LeinsterCarlow  Tullow      3097       0       0       0       0       0       0       052.80255-6.73715       0
+Ulster  Cavan   Belturbe    2070       0       0       0       0       0       0       054.10191-7.44967       0
+Ulster  Cavan   Cavan       3749       0       0       0       0       0       0       053.99061-7.36294       0
+Ulster  Cavan   Cootehil    2425       0       0       0       0       0       0       054.07373-7.07574       0
+Munster Clare   Ennis       9318     144      53    36.8March 16April 9,     103     12752.84743-8.988741545.396
+Munster Clare   Ennistym    2089     138      73    52.9April 1,May 26,      119     17452.94037 -9.29356606.032
+Munster Clare   Killaloe    2783      33      23    69.7March 20May 3, 1     107     15152.80889-8.447511185.771
+Munster Clare   Kilrush     5071     263     113    42.9March 9,May 12,       96     160 52.6407-9.485945186.354
+Munster Cork    Bandon      8275     361     159      44May 15, August 3     163     27151.74612-8.731824362.538
+Munster Cork    Bantry      4082     185      82    54.3May 27, August 2     175     26351.68089 -9.44864532.092
+Munster Cork    Charlevi    4287      40      19    47.5March 16May 1, 1     103     14952.35491-8.68318933.0534
+Munster Cork    Clonakil    3993       0       0       0       0       0       0       051.62151 -8.8887       0
+Munster Cork    Cloyne      2200      32      16      50May 25, June 19,     173     198 51.8631-8.121241454.545
+Munster Cork    Cork      106055    3176    1329    41.8March 2,Septembe      89     28851.89689-8.486322994.673
+Munster Cork    Cove        5142     301     115    38.2May 8, 1June 25,     156     20451.85034-8.294295853.753
+Munster Cork    Donerail    2722      13      10      77April 13May 8, 1     131     15652.21517-8.58598  477.59
+Munster Cork    Dunmanwa    3086       0       0       0       0       0       0       051.72226-9.11181       0
+Munster Cork    Fermoy      6379       0       0       0       0       0       0       052.13936-8.27556       0
+Munster Cork    Kanturk     4388       2       1      50April 6,Apri 11,       0       052.17726-8.9051745.57885
+Munster Cork    Kinsale     6918     825     447    54.1April 30June 23,     148     20251.70605 -8.522511925.41
+Munster Cork    Macroom     4794      77      42    54.5April 11May 31,      129     179 51.9048-8.958851606.174
+Munster Cork    Mallow      6851     287     144    50.1April 16June 16,     134     19552.13898-8.653924189.169
+Munster Cork    Midleton    4591     285     146    51.2April 6,November     124     36251.91371-8.172246207.798
+Munster Cork    Millstre    2162       0       0       0       0       0       0       052.06013-9.06471       0
+Munster Cork    Mitchels    4181       1       0       0April 29May 1, 1     147     14952.26621-8.2698923.91772
+Munster Cork    Skibbere    4715     112      48    42.8May 16, June 8,      164     18751.55592-9.262132375.398
+Munster Cork    Youghal     9939     149      90    60.4May 2, 1June 16,     150     19551.95427-7.847171499.145
+Ulster  Donegal Ballysha    3513       0       0       0       0       0       0       054.50299-8.19204       0
+Ulster  Donegal Letterke    2161       0       0       0       0       0       0       054.95584-7.73428       0
+Ulster  Down    Banbridg    3324       0       0       0       0       0       0       054.34897-6.26978       0
+Ulster  Down    Bangor      3116      29      19    65.5March 6,October       93     30654.64305-5.64426930.6804
+Ulster  Down    Donaghad    3151      63      30    47.6January Septembe      41     280 54.6427-5.538481999.365
+Ulster  Down    Downpatr    4866     136      72    52.9July 31,Septembe     240     28954.32882-5.715732794.903
+Ulster  Down    Dromore     2110       5       3      60June 14,June 29,     193     20854.41551-6.14705236.9668
+Ulster  Down    Newtowna    7621     115      34    29.5FebruaryMarch 26      79     11354.59758-5.686091508.988
+Ulster  Down    Portafer    2107       0       0       0       0       0       0       054.38419-5.54102       0
+Ulster  Down    Rathfril    2183       0       0       0       0       0       0       054.23792 -6.1622       0
+LeinsterDublin  Balbrigg    2929     111      22    19.8August 2October      265     31953.60832-6.182083789.689
+LeinsterDublin  Blackroc    2372      51      18    35.3May 19, October      167     33153.30079-6.177072150.084
+LeinsterDublin  Bray        3169     176      68    38.6SeptembeOctober      276     329 53.2009-6.111075553.802
+LeinsterDublin  Dublin    238531    3813    1664    43.6January November      58     34953.34981-6.260311598.534
+LeinsterDublin  Kingstow    7229      88      37      42May 4, 1October      152     30353.29279-6.141941217.319
+LeinsterDublin  Ranelagh    2290       0       0       0       0       0       0       053.32684-6.25709       0
+LeinsterDublin  Rathmine    2429       2       1      50SeptembeSeptembe     283     29853.32188-6.2655182.33841
+LeinsterDublin  Skerries    2417     126      45    35.7August 1October      252     31553.58055-6.107885213.074
+Ulster  FermanagEnniskil    5686       0       0       0       0       0       0       054.34363-7.63093       0
+ConnaughGalway  Ballinas    4934    1377     756    54.9April 23August 1     141     25953.32876-8.2269527908.39
+ConnaughGalway  Galway     32511     897     426    47.4April 10May 29,      128     17753.27056-9.056672759.066
+ConnaughGalway  Gort        3056    1044     403    38.6March 27July 24,     114     23353.06664-8.81875 34162.3
+ConnaughGalway  Loughrea    5458     647     290    44.8April 26May 30,      144     17853.19891-8.5660911854.16
+ConnaughGalway  Tuam        6034     487     224      46April 21June 15,     139     19453.51799-8.855638070.931
+Munster Kerry   Dingle      3386      86      37      43May 8, 1May 28,      156     17652.13876-10.2705 2539.87
+Munster Kerry   Killarne    7127     116      65      56April 10July 6,      128     21552.05994-9.504431627.613
+Munster Kerry   Listowel    2598      26      13      50April 25May 23,      143     17152.44605-9.48537 1000.77
+Munster Kerry   Tralee     11363     395     249      63April 6,June 24,     124     20352.27131-9.699933476.195
+LeinsterKildare Athy        4698      27      11    40.8June 25,Septembe     204     30052.99183-6.98573574.7126
+LeinsterKildare Maynooth    2129     141      47    33.3June 7, October      186     30453.38129-6.591856622.828
+LeinsterKildare Naas        3571       0       0       0       0       0       0       053.22057-6.65931       0
+LeinsterKilkennyCraiguen    2248      11      10      91July 17,November     226     35752.54451-6.95486489.3238
+LeinsterKilkennyFreshfor    2075      88      31    35.2FebruaryJune 29,      82     57352.73251-7.396864240.964
+LeinsterKilkennyKilkenny   23625    1046     529    50.5FebruaryOctober       65     32952.65415-7.244794427.513
+LeinsterKilkennyThomasto    2348      14       7      50FebruaryMarch 2,      65      8952.52708-7.13882596.2521
+LeinsterKing's /Banagher    2827      62      20    32.2May 10, June 12,     158     19153.18646-7.995352193.138
+LeinsterKing's /Parsonst    6336     604     263    43.5May 10, July 23,     158     23253.09801-7.909699532.828
+LeinsterKing's /Portarli    3106       0       0       0       0       0       0       053.16121-7.18776       0
+LeinsterKing's /Tullamor    6343     175     114    65.1May 25, August 1     173     25253.27553-7.493392758.947
+Munster LimerickLimerick   65296    1500     746    49.7FebruarySeptembe      85     27852.66802 -8.63052297.231
+Munster LimerickNewcastl    2917     145      38    26.4March 20April 27     107     14552.44875-9.05458 4970.86
+Munster LimerickRathkeal    4201     409     182    44.5March 26May 1, 1     113     14952.52381 -8.93719735.777
+Ulster  LondondeColerain    6255       3       1    33.3DecemberApril 24       7     14255.12529-6.6684247.96163
+Ulster  LondondeLondonde   15150      58      14    24.1January March 21      38     10854.99661-7.30858382.8383
+Ulster  LondondeNewtownl    3101       2       2     100July 3, July 7,      212     21655.05222-6.9403564.49532
+LeinsterLongfordGranard     2408       0       0       0       0       0       0       053.77927-7.49178       0
+LeinsterLongfordLongford    4966     240     145    60.4May 13, August 2     161     26153.72357-7.720884832.863
+LeinsterLouth   Ardee       3679     120      20    16.6April 11October      129     31153.85762   -6.543261.756
+LeinsterLouth   Drogheda   19260     214      72    33.6March 2,May 27,       89     17553.71786 -6.35611111.111
+LeinsterLouth   Dundalk    10782     224      73    32.5May 13, July 24,     161     23353.99795-6.405962077.537
+ConnaughMayo    Ballina     7012     728     232    31.8July 24,October      233     30354.11495-9.15507 10382.2
+ConnaughMayo    Ballinro    2678     110      57    51.8March 31May 19,      118     16753.62373-9.221114107.543
+ConnaughMayo    Castleba    5137     148      58    39.1May 17, August 1     165     259  53.855-9.287932881.059
+ConnaughMayo    Clare       2256       0       0       0       0       0       0       053.71959-8.99091       0
+ConnaughMayo    Westport    4365      90      40    44.4May 5, 1July 8,      153     21753.80213-9.514352061.856
+LeinsterMeath   Kells       4205     330     156    47.2June 24,August 1     203     25653.72684-6.87483  7847.8
+LeinsterMeath   Navan       5628      38      16    42.1April 2,August 2     120     24253.65543 -6.6867675.1955
+LeinsterMeath   Trim        2269       6       5    83.3July 24,Septembe     233     28753.55483-6.79112264.4337
+Ulster  MonaghanCastlebl    2134       0       0       0       0       0       0       054.12066-6.73974       0
+Ulster  MonaghanClones      2877       0       0       0       0       0       0       054.17968-7.23067       0
+Ulster  MonaghanMonaghan    4130     130      59    45.3FebruaryApril 27      69     14554.24921-6.96831  3147.7
+LeinsterQueen's Maryboro    3633       0       0       0       0       0       0       053.03281-7.29879       0
+LeinsterQueen's Mountmel    4755       5       3      60June 26,July 27,     205     23653.11815-7.32674105.1525
+LeinsterQueen's Mountrat    3000       8       1    12.5May 31, August 3     179     27053.00256-7.47514266.6667
+ConnaughRoscommoAthlone     6393     342     185      54May 3, 1Septembe     151     28153.42393-7.940695349.601
+ConnaughRoscommoBoyle       3234      14       8    57.1SeptembeOctober      291     31253.97221-8.29728432.9004
+ConnaughRoscommoRoscommo    3349     116      68    58.6FebruarySeptembe      66     29353.62759 -8.18913463.721
+ConnaughSligo   Sligo      14318     392     196      50August 7October      247     30954.27661-8.476092737.813
+Munster TipperarCaher       3668     116      65      56March 16May 29,      103     17752.37453-7.925253162.486
+Munster TipperarCarriel-   11049     266     126    47.3April 7,October      125     30752.34765-7.418972407.458
+Munster TipperarCashel      8027       0       0       0       0       0       0       052.51676-7.88768       0
+Munster TipperarClogheen    2049     108      56    51.8April 7,May 23,      125     17152.27708 -7.99515270.864
+Munster TipperarClonmel    13505     440     184    41.8March 23July 12,     110     22152.35582-7.690263258.053
+Munster TipperarFethard     3915      10       9      90March 28April 10     115     12852.47098-7.69679255.4278
+Munster TipperarNenagh      8618     400     240      60March 22May 8, 1     109     156 52.8643-8.197564641.448
+Munster TipperarRoscrea     5275      90      39    48.3April 30May 4, 1     148     15252.95518-7.798471706.161
+Munster TipperarTemplemo    3685      83      35    42.1April 28July 26,     146     235 52.7948-7.839862252.374
+Munster TipperarThurles     7523     489     259    52.9April 17June 10,     135     55452.68011-7.804446500.066
+Munster TipperarTipperar    7370     176      80    45.4March 21November     108     35752.47379-8.16185 2388.06
+Ulster  Tyrone  Cookstow    3006       0       0       0       0       0       0       054.64102-6.74429       0
+Ulster  Tyrone  Dunganno    3801       0       0       0       0       0       0       054.50425-6.76536       0
+Ulster  Tyrone  Omagh       2947       0       0       0       0       0       0       054.59657-7.30691       0
+Ulster  Tyrone  Strabane    4704       0       0       0       0       0       0       054.82727-7.46358       0
+Munster WaterforCappoqui    2341      17       8      47April 25Septembe     143     28352.14643-7.85163726.1854
+Munster WaterforDungarva   12382     723     344    47.4April 29Septembe     147     28252.09368-7.620365839.121
+Munster WaterforLismore     3007      91      53    58.2May 2, 1July 31,     150     24052.13582-7.937683026.272
+Munster WaterforPortlaw     3647      72      13      18May 13, August 2     161     261 52.2882-7.314441974.225
+Munster WaterforTallow      2969      35      19    54.2April 29August 2     147     26752.09214-8.007031178.848
+Munster WaterforWaterfor   29288     522     294    56.3April 15Septembe     133     27852.25227-7.12721  1782.3
+LeinsterWestmeatMoate       2095       0       0       0       0       0       0       0  53.395-7.71862       0
+LeinsterWestmeatMullinga    4569     190     109    57.3April 8,June 1,      126     18053.52593-7.338144158.459
+LeinsterWexford Enniscor    7016     339     139      41August 2March 25     260     477 52.5022-6.566134831.813
+LeinsterWexford Gorey       3365     298     121    40.6April 27March 12     145     46452.67574 -6.29438855.869
+LeinsterWexford New Ross    7543     180      96    53.3FebruaryDecember      75     389 52.3962-6.947192386.318
+LeinsterWexford Wexford    11252     188      76    40.4SeptembeMarch 16     275     46852.33692-6.463341670.814
+LeinsterWicklow Arklow      3254       0       0       0       0       0       0       052.79769-6.15993       0
+LeinsterWicklow Wicklow     2794       0       0       0       0       0       0       052.98082-6.04459       0

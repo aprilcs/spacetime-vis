@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="mean" id="mean">
+	<SimpleField name="Nombre" type="string"></SimpleField>
+	<SimpleField name="alt" type="int"></SimpleField>
+	<SimpleField name="codEst" type="float"></SimpleField>
+	<SimpleField name="mean" type="float"></SimpleField>
+	<SimpleField name="median" type="float"></SimpleField>
+	<SimpleField name="sd" type="float"></SimpleField>
+	<SimpleField name="classNO2" type="string"></SimpleField>
+</Schema>
+<Folder><name>mean</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Pza. del Carmen</SimpleData>
+		<SimpleData name="alt">657</SimpleData>
+		<SimpleData name="codEst">28079035</SimpleData>
+		<SimpleData name="mean">51</SimpleData>
+		<SimpleData name="median">46</SimpleData>
+		<SimpleData name="sd">18.6</SimpleData>
+		<SimpleData name="classNO2">[48.95,57.1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.70317222222222,40.419208333333302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Pza. de España</SimpleData>
+		<SimpleData name="alt">637</SimpleData>
+		<SimpleData name="codEst">28079004</SimpleData>
+		<SimpleData name="mean">50.6</SimpleData>
+		<SimpleData name="median">49</SimpleData>
+		<SimpleData name="sd">18.3</SimpleData>
+		<SimpleData name="classNO2">[48.95,57.1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.71233333333333,40.423991666666701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Barrio del Pilar</SimpleData>
+		<SimpleData name="alt">673</SimpleData>
+		<SimpleData name="codEst">28079039</SimpleData>
+		<SimpleData name="mean">49.3</SimpleData>
+		<SimpleData name="median">43</SimpleData>
+		<SimpleData name="sd">24.2</SimpleData>
+		<SimpleData name="classNO2">[48.95,57.1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.71154166666667,40.478227777777803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Escuelas Aguirre</SimpleData>
+		<SimpleData name="alt">672</SimpleData>
+		<SimpleData name="codEst">28079008</SimpleData>
+		<SimpleData name="mean">59.6</SimpleData>
+		<SimpleData name="median">58</SimpleData>
+		<SimpleData name="sd">17.7</SimpleData>
+		<SimpleData name="classNO2">[57.1,62.4]</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68231944444444,40.421563888888898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Cuatro Caminos</SimpleData>
+		<SimpleData name="alt">699</SimpleData>
+		<SimpleData name="codEst">28079038</SimpleData>
+		<SimpleData name="mean">54.6</SimpleData>
+		<SimpleData name="median">51</SimpleData>
+		<SimpleData name="sd">22.7</SimpleData>
+		<SimpleData name="classNO2">[48.95,57.1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.70712777777778,40.433333333333302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Av. Ramón y Cajal</SimpleData>
+		<SimpleData name="alt">708</SimpleData>
+		<SimpleData name="codEst">28079011</SimpleData>
+		<SimpleData name="mean">53.6</SimpleData>
+		<SimpleData name="median">51</SimpleData>
+		<SimpleData name="sd">21.8</SimpleData>
+		<SimpleData name="classNO2">[48.95,57.1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.67735277777778,40.451472222222201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Vallecas</SimpleData>
+		<SimpleData name="alt">677</SimpleData>
+		<SimpleData name="codEst">28079040</SimpleData>
+		<SimpleData name="mean">44.2</SimpleData>
+		<SimpleData name="median">41</SimpleData>
+		<SimpleData name="sd">20</SimpleData>
+		<SimpleData name="classNO2">[42.05,48.95)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.65152222222222,40.38815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Arturo Soria</SimpleData>
+		<SimpleData name="alt">698</SimpleData>
+		<SimpleData name="codEst">28079016</SimpleData>
+		<SimpleData name="mean">44.1</SimpleData>
+		<SimpleData name="median">41</SimpleData>
+		<SimpleData name="sd">19.2</SimpleData>
+		<SimpleData name="classNO2">[42.05,48.95)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.63923333333333,40.440047222222198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Villaverde Alto</SimpleData>
+		<SimpleData name="codEst">28079017</SimpleData>
+		<SimpleData name="mean">45.8</SimpleData>
+		<SimpleData name="median">38</SimpleData>
+		<SimpleData name="sd">24.9</SimpleData>
+		<SimpleData name="classNO2">[42.05,48.95)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7,40.3333333333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">C/ Farolillo</SimpleData>
+		<SimpleData name="alt">581</SimpleData>
+		<SimpleData name="codEst">28079018</SimpleData>
+		<SimpleData name="mean">40</SimpleData>
+		<SimpleData name="median">37</SimpleData>
+		<SimpleData name="sd">19.8</SimpleData>
+		<SimpleData name="classNO2">[33,42.05)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.73183333333333,40.394777777777797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Moratalaz</SimpleData>
+		<SimpleData name="alt">671</SimpleData>
+		<SimpleData name="codEst">28079036</SimpleData>
+		<SimpleData name="mean">47.8</SimpleData>
+		<SimpleData name="median">45</SimpleData>
+		<SimpleData name="sd">17.9</SimpleData>
+		<SimpleData name="classNO2">[42.05,48.95)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.64529444444444,40.407955555555603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Casa de Campo</SimpleData>
+		<SimpleData name="alt">645</SimpleData>
+		<SimpleData name="codEst">28079024</SimpleData>
+		<SimpleData name="mean">29.4</SimpleData>
+		<SimpleData name="median">26</SimpleData>
+		<SimpleData name="sd">17.2</SimpleData>
+		<SimpleData name="classNO2">[22.5,33)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.74734444444444,40.419355555555597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Barajas</SimpleData>
+		<SimpleData name="codEst">28079027</SimpleData>
+		<SimpleData name="mean">40</SimpleData>
+		<SimpleData name="median">37</SimpleData>
+		<SimpleData name="sd">18.3</SimpleData>
+		<SimpleData name="classNO2">[33,42.05)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.58002777777778,40.476927777777803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Méndez Álvaro</SimpleData>
+		<SimpleData name="alt">609</SimpleData>
+		<SimpleData name="codEst">28079047</SimpleData>
+		<SimpleData name="mean">47.6</SimpleData>
+		<SimpleData name="median">44</SimpleData>
+		<SimpleData name="sd">20.9</SimpleData>
+		<SimpleData name="classNO2">[42.05,48.95)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68333333333333,40.383333333333297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Pº. Castellana</SimpleData>
+		<SimpleData name="alt">676</SimpleData>
+		<SimpleData name="codEst">28079048</SimpleData>
+		<SimpleData name="mean">46.6</SimpleData>
+		<SimpleData name="median">45</SimpleData>
+		<SimpleData name="sd">18.1</SimpleData>
+		<SimpleData name="classNO2">[42.05,48.95)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.69027777777778,40.439722222222201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Retiro</SimpleData>
+		<SimpleData name="alt">662</SimpleData>
+		<SimpleData name="codEst">28079049</SimpleData>
+		<SimpleData name="mean">36.6</SimpleData>
+		<SimpleData name="median">34</SimpleData>
+		<SimpleData name="sd">14.8</SimpleData>
+		<SimpleData name="classNO2">[33,42.05)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.66666666666667,40.4</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Pza. Castilla</SimpleData>
+		<SimpleData name="alt">728</SimpleData>
+		<SimpleData name="codEst">28079050</SimpleData>
+		<SimpleData name="mean">51.3</SimpleData>
+		<SimpleData name="median">49</SimpleData>
+		<SimpleData name="sd">20.1</SimpleData>
+		<SimpleData name="classNO2">[48.95,57.1)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68333333333333,40.45</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Ensanche Vallecas</SimpleData>
+		<SimpleData name="alt">630</SimpleData>
+		<SimpleData name="codEst">28079054</SimpleData>
+		<SimpleData name="mean">39.4</SimpleData>
+		<SimpleData name="median">36</SimpleData>
+		<SimpleData name="sd">20.4</SimpleData>
+		<SimpleData name="classNO2">[33,42.05)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6,40.372777777777799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Urb. Embajada (Barajas)</SimpleData>
+		<SimpleData name="alt">619</SimpleData>
+		<SimpleData name="codEst">28079055</SimpleData>
+		<SimpleData name="mean">48.6</SimpleData>
+		<SimpleData name="median">47</SimpleData>
+		<SimpleData name="sd">18.8</SimpleData>
+		<SimpleData name="classNO2">[42.05,48.95)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.58055555555556,40.4625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Pza. Fdez. Ladreda</SimpleData>
+		<SimpleData name="alt">605</SimpleData>
+		<SimpleData name="codEst">28079056</SimpleData>
+		<SimpleData name="mean">62.4</SimpleData>
+		<SimpleData name="median">59</SimpleData>
+		<SimpleData name="sd">24.4</SimpleData>
+		<SimpleData name="classNO2">[57.1,62.4]</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.71861111111111,40.384722222222202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Sanchinarro</SimpleData>
+		<SimpleData name="alt">700</SimpleData>
+		<SimpleData name="codEst">28079057</SimpleData>
+		<SimpleData name="mean">39.7</SimpleData>
+		<SimpleData name="median">35</SimpleData>
+		<SimpleData name="sd">21</SimpleData>
+		<SimpleData name="classNO2">[33,42.05)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.65,40.483333333333299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">El Pardo</SimpleData>
+		<SimpleData name="alt">616</SimpleData>
+		<SimpleData name="codEst">28079058</SimpleData>
+		<SimpleData name="mean">22.5</SimpleData>
+		<SimpleData name="median">20</SimpleData>
+		<SimpleData name="sd">12.4</SimpleData>
+		<SimpleData name="classNO2">[22.5,33)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.76666666666667,40.516666666666701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Parque Juan Carlos I</SimpleData>
+		<SimpleData name="alt">669</SimpleData>
+		<SimpleData name="codEst">28079059</SimpleData>
+		<SimpleData name="mean">28</SimpleData>
+		<SimpleData name="median">27</SimpleData>
+		<SimpleData name="sd">13.8</SimpleData>
+		<SimpleData name="classNO2">[22.5,33)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.60888888888889,40.465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mean">
+		<SimpleData name="Nombre">Tres Olivos</SimpleData>
+		<SimpleData name="alt">715</SimpleData>
+		<SimpleData name="codEst">28079060</SimpleData>
+		<SimpleData name="mean">38.8</SimpleData>
+		<SimpleData name="median">35</SimpleData>
+		<SimpleData name="sd">20</SimpleData>
+		<SimpleData name="classNO2">[33,42.05)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.68333333333333,40.5005555555556</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

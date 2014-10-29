@@ -29,6 +29,8 @@
 library(lattice)
 library(ggplot2)
 library(latticeExtra)
+library(gridBase)
+library(gridExtra)
 
 myTheme <- custom.theme.2(pch=19, cex=0.7,
                           region=rev(brewer.pal(9, 'YlOrRd')),
@@ -68,14 +70,13 @@ votes2011 <- read.csv('data/votes2011.csv',
 library(sp)
 library(maptools)
 
-old <- setwd(tempdir())
-download.file('http://goo.gl/TIvr4', 'mapas_completo_municipal.rar')
-system2('unrar', c('e', 'mapas_completo_municipal.rar'))
+#old <- setwd(tempdir())
+
 espMap <- readShapePoly(fn="esp_muni_0109")
 Encoding(levels(espMap$NOMBRE)) <- "latin1"
 
 provinces <- readShapePoly(fn="spain_provinces_ag_2")
-setwd(old)
+#setwd(old)
 
 ## dissolve repeated polygons
 espPols <- unionSpatialPolygons(espMap, espMap$PROVMUN)

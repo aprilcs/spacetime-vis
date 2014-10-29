@@ -1,0 +1,137 @@
+Province,County,Town,Total popu,No. of cas,No. of dea,Rate of mo,Date of fi,Date of la,Day of fir,Day of las,LAT,LONG
+Ulster,Antrim,Antrim,2645,179,24,13.4,"February 26, 1849","May 16, 1849",85,164,54.71363,-6.21428
+Ulster,Antrim,Ballymena,5549,141,54,38.3,"March 19, 1849","April 24, 1849",106,142,54.86538,-6.28038
+Ulster,Antrim,Belfast,63625,2705,969,35.8,"December 4, 1848","December 12, 1849",1,374,54.597285,-5.93012
+Ulster,Antrim,Carrickfergus,9379,0,0,0,0,0,0,0,54.71373,-5.80818
+Ulster,Antrim,Larne,3345,0,0,0,0,0,0,0,54.8575,-5.80986
+Ulster,Antrim,Lisburn,7524,565,196,34.6,"January 24, 1849","June 27, 1849",52,206,54.50972,-6.0374
+Ulster,Armagh,Armagh,10245,154,73,4.74,"February 27, 1849","May 2, 1849",86,150,54.34875,-6.65161
+Ulster,Armagh,Lurgan,4677,369,116,31.4,"March 28, 1849","September 7, 1849",115,278,54.4648,-6.33602
+Ulster,Armagh,Newry,13227,139,62,44.6,"February 19, 1849","July 9, 1849",78,218,54.18006,-6.33393
+Ulster,Armagh,Portadown,2505,42,20,47.3,"January 29, 1849","August 29, 1849",57,269,54.42193,-6.45129
+Leinster,Carlow,Bagnalstown,2225,39,22,56.3,"August 17, 1849","March 29, 1850",257,481,52.703111,-6.955868
+Leinster,Carlow,Carlow,10409,333,167,50.1,"July 17, 1849","September 19, 1849",226,290,52.718975,-6.85037
+Leinster,Carlow,Tullow,3097,0,0,0,0,0,0,0,52.802547,-6.737152
+Ulster,Cavan,Belturbet,2070,0,0,0,0,0,0,0,54.101906,-7.449668
+Ulster,Cavan,Cavan,3749,0,0,0,0,0,0,0,53.990605,-7.362941
+Ulster,Cavan,Cootehill,2425,0,0,0,0,0,0,0,54.07373,-7.075739
+Munster,Clare,Ennis,9318,144,53,36.8,"March 16, 1849","April 9, 1849",103,127,52.847425,-8.988738
+Munster,Clare,Ennistymon,2089,138,73,52.9,"April 1, 1849","May 26, 1849",119,174,52.940372,-9.293495
+Munster,Clare,Killaloe,2783,33,23,69.7,"March 20, 1849","May 3, 1849",107,151,52.808886,-8.447515
+Munster,Clare,Kilrush,5071,263,113,42.9,"March 9, 1849","May 12, 1849",96,160,52.6407,-9.485937
+Munster,Cork,Bandon,8275,361,159,44,"May 15, 1849","August 31, 1849",163,271,51.746124,-8.731817
+Munster,Cork,Bantry,4082,185,82,54.3,"May 27, 1849","August 23, 1849",175,263,51.680892,-9.448603
+Munster,Cork,Charleville,4287,40,19,47.5,"March 16, 1849","May 1, 1849",103,149,52.354908,-8.683177
+Munster,Cork,Clonakilty,3993,0,0,0,0,0,0,0,51.621506,-8.8887
+Munster,Cork,Cloyne,2200,32,16,50,"May 25, 1849","June 19, 1849",173,198,51.863097,-8.121237
+Munster,Cork,Cork,106055,3176,1329,41.8,"March 2, 1849","September 17, 1849",89,288,51.896892,-8.486316
+Munster,Cork,Cove,5142,301,115,38.2,"May 8, 1849","June 25, 1849",156,204,51.850336,-8.294286
+Munster,Cork,Doneraile,2722,13,10,77,"April 13, 1849","May 8, 1849",131,156,52.215173,-8.585977
+Munster,Cork,Dunmanway,3086,0,0,0,0,0,0,0,51.722257,-9.111809
+Munster,Cork,Fermoy,6379,0,0,0,0,0,0,0,52.139361,-8.275561
+Munster,Cork,Kanturk,4388,2,1,50,"April 6, 1849","Apri 11, 1849",0,0,52.177255,-8.905167
+Munster,Cork,Kinsale,6918,825,447,54.1,"April 30, 1849","June 23, 1849",148,202,51.70605,-8.522501
+Munster,Cork,Macroom,4794,77,42,54.5,"April 11, 1849","May 31, 1849",129,179,51.904804,-8.958848
+Munster,Cork,Mallow,6851,287,144,50.1,"April 16, 1849","June 16, 1849",134,195,52.138976,-8.653916
+Munster,Cork,Midleton,4591,285,146,51.2,"April 6, 1849","November 30, 1849",124,362,51.913713,-8.172236
+Munster,Cork,Millstreet,2162,0,0,0,0,0,0,0,52.060132,-9.064712
+Munster,Cork,Mitchelstown,4181,1,0,0,"April 29, 1849","May 1, 1849",147,149,52.266213,-8.269886
+Munster,Cork,Skibbereen,4715,112,48,42.8,"May 16, 1849","June 8, 1849",164,187,51.555924,-9.26213
+Munster,Cork,Youghal,9939,149,90,60.4,"May 2, 1849","June 16, 1849",150,195,51.95427,-7.847171
+Ulster,Donegal,Ballyshannon,3513,0,0,0,0,0,0,0,54.502988,-8.192042
+Ulster,Donegal,Letterkenny,2161,0,0,0,0,0,0,0,54.955839,-7.734279
+Ulster,Down,Banbridge,3324,0,0,0,0,0,0,0,54.34897,-6.26978
+Ulster,Down,Bangor,3116,29,19,65.5,"March 6, 1849","October 5, 1849",93,306,54.643046,-5.644264
+Ulster,Down,Donaghadee,3151,63,30,47.6,"January 13, 1849","September 9, 1849",41,280,54.6427,-5.53848
+Ulster,Down,Downpatrick,4866,136,72,52.9,"July 31, 1849","September 18, 1849",240,289,54.32882,-5.71573
+Ulster,Down,Dromore,2110,5,3,60,"June 14, 1849","June 29, 1849",193,208,54.41551,-6.14705
+Ulster,Down,Newtownards,7621,115,34,29.5,"February 20, 1849","March 26, 1849",79,113,54.59758,-5.68609
+Ulster,Down,Portaferry,2107,0,0,0,0,0,0,0,54.38419,-5.54102
+Ulster,Down,Rathfriland,2183,0,0,0,0,0,0,0,54.23792,-6.1622
+Leinster,Dublin,Balbriggan,2929,111,22,19.8,"August 25, 1849","October 18, 1849",265,319,53.608319,-6.18208
+Leinster,Dublin,Blackrock,2372,51,18,35.3,"May 19, 1849","October 30, 1849",167,331,53.300791,-6.177067
+Leinster,Dublin,Bray,3169,176,68,38.6,"September 5, 1849","October 28, 1849",276,329,53.200903,-6.111074
+Leinster,Dublin,Dublin,238531,3813,1664,43.6,"January 30, 1849","November 17, 1849",58,349,53.349805,-6.26031
+Leinster,Dublin,Kingstown,7229,88,37,42,"May 4, 1849","October 2, 1849",152,303,53.29279,-6.141937
+Leinster,Dublin,Ranelagh,2290,0,0,0,0,0,0,0,53.326844,-6.257085
+Leinster,Dublin,Rathmines,2429,2,1,50,"September 12, 1849","September 27, 1849",283,298,53.321882,-6.265505
+Leinster,Dublin,Skerries,2417,126,45,35.7,"August 12, 1849","October 14, 1849",252,315,53.580552,-6.107878
+Ulster,Fermanagh,Enniskillen,5686,0,0,0,0,0,0,0,54.34363,-7.63093
+Connaught,Galway,Ballinasloe,4934,1377,756,54.9,"April 23, 1849","August 19, 1849",141,259,53.328762,-8.226947
+Connaught,Galway,Galway,32511,897,426,47.4,"April 10, 1849","May 29, 1849",128,177,53.270559,-9.056668
+Connaught,Galway,Gort,3056,1044,403,38.6,"March 27, 1849","July 24, 1849",114,233,53.066643,-8.818749
+Connaught,Galway,Loughrea,5458,647,290,44.8,"April 26, 1849","May 30, 1849",144,178,53.198914,-8.566093
+Connaught,Galway,Tuam,6034,487,224,46,"April 21, 1849","June 15, 1849",139,194,53.517988,-8.855627
+Munster,Kerry,Dingle,3386,86,37,43,"May 8, 1849","May 28, 1849",156,176,52.138761,-10.270536
+Munster,Kerry,Killarney,7127,116,65,56,"April 10, 1849","July 6, 1849",128,215,52.059935,-9.504427
+Munster,Kerry,Listowel,2598,26,13,50,"April 25, 1849","May 23, 1849",143,171,52.446049,-9.485365
+Munster,Kerry,Tralee,11363,395,249,63,"April 6, 1849","June 24, 1849",124,203,52.27131,-9.699932
+Leinster,Kildare,Athy,4698,27,11,40.8,"June 25, 1849","September 29, 1849",204,300,52.991834,-6.985728
+Leinster,Kildare,Maynooth,2129,141,47,33.3,"June 7, 1849","October 3, 1849",186,304,53.38129,-6.59185
+Leinster,Kildare,Naas,3571,0,0,0,0,0,0,0,53.220565,-6.659308
+Leinster,Kilkenny,Craiguenamanagh,2248,11,10,91,"July 17, 1849","November 25, 1849",226,357,52.544508,-6.954861
+Leinster,Kilkenny,Freshford,2075,88,31,35.2,"February 23, 1849","June 29, 1850",82,573,52.732505,-7.396855
+Leinster,Kilkenny,Kilkenny,23625,1046,529,50.5,"February 6, 1849","October 28, 1849",65,329,52.654145,-7.244788
+Leinster,Kilkenny,Thomastown,2348,14,7,50,"February 6, 1849","March 2, 1849",65,89,52.527082,-7.138821
+Leinster,King's / Offaly,Banagher,2827,62,20,32.2,"May 10, 1849","June 12, 1849",158,191,53.186464,-7.995351
+Leinster,King's / Offaly,Parsonstown,6336,604,263,43.5,"May 10, 1849","July 23, 1849",158,232,53.098005,-7.909688
+Leinster,King's / Offaly,Portarlington,3106,0,0,0,0,0,0,0,53.161211,-7.187757
+Leinster,King's / Offaly,Tullamore,6343,175,114,65.1,"May 25, 1849","August 12, 1849",173,252,53.275526,-7.493385
+Munster,Limerick,Limerick,65296,1500,746,49.7,"February 26, 1849","September 7, 1849",85,278,52.66802,-8.630498
+Munster,Limerick,Newcastle,2917,145,38,26.4,"March 20, 1849","April 27, 1849",107,145,52.44875,-9.054582
+Munster,Limerick,Rathkeale,4201,409,182,44.5,"March 26, 1849","May 1, 1849",113,149,52.523807,-8.937097
+Ulster,Londonderry,Coleraine,6255,3,1,33.3,"December 10, 1848","April 24, 1849",7,142,55.12529,-6.66842
+Ulster,Londonderry,Londonderry,15150,58,14,24.1,"January 10, 1849","March 21, 1849",38,108,54.996612,-7.308575
+Ulster,Londonderry,Newtownlimavady,3101,2,2,100,"July 3, 1849","July 7, 1849",212,216,55.05222,-6.94035
+Leinster,Longford,Granard,2408,0,0,0,0,0,0,0,53.779271,-7.491778
+Leinster,Longford,Longford,4966,240,145,60.4,"May 13, 1849","August 21, 1849",161,261,53.723565,-7.720881
+Leinster,Louth,Ardee,3679,120,20,16.6,"April 11, 1849","October 10, 1849",129,311,53.857623,-6.540001
+Leinster,Louth,Drogheda,19260,214,72,33.6,"March 2, 1849","May 27, 1849",89,175,53.717856,-6.356099
+Leinster,Louth,Dundalk,10782,224,73,32.5,"May 13, 1849","July 24, 1849",161,233,53.997945,-6.405957
+Connaught,Mayo,Ballina,7012,728,232,31.8,"July 24, 1849","October 2, 1849",233,303,54.114948,-9.155069
+Connaught,Mayo,Ballinrobe,2678,110,57,51.8,"March 31, 1849","May 19, 1849",118,167,53.623734,-9.221114
+Connaught,Mayo,Castlebar,5137,148,58,39.1,"May 17, 1849","August 19, 1849",165,259,53.855001,-9.287926
+Connaught,Mayo,Clare,2256,0,0,0,0,0,0,0,53.719591,-8.990909
+Connaught,Mayo,Westport,4365,90,40,44.4,"May 5, 1849","July 8, 1849",153,217,53.802131,-9.514347
+Leinster,Meath,Kells,4205,330,156,47.2,"June 24, 1849","August 16, 1849",203,256,53.726835,-6.874833
+Leinster,Meath,Navan,5628,38,16,42.1,"April 2, 1849","August 2, 1849",120,242,53.655429,-6.6867
+Leinster,Meath,Trim,2269,6,5,83.3,"July 24, 1849","September 16, 1849",233,287,53.554826,-6.791115
+Ulster,Monaghan,Castleblayney,2134,0,0,0,0,0,0,0,54.120659,-6.739737
+Ulster,Monaghan,Clones,2877,0,0,0,0,0,0,0,54.179683,-7.230667
+Ulster,Monaghan,Monaghan,4130,130,59,45.3,"February 10, 1849","April 27, 1849",69,145,54.249205,-6.968313
+Leinster,Queen's / Laoighis,Maryborough,3633,0,0,0,0,0,0,0,53.032812,-7.298793
+Leinster,Queen's / Laoighis,Mountmellick,4755,5,3,60,"June 26, 1849","July 27, 1849",205,236,53.118148,-7.326738
+Leinster,Queen's / Laoighis,Mountrath,3000,8,1,12.5,"May 31, 1849","August 30, 1849",179,270,53.00256,-7.47514
+Connaught,Roscommon,Athlone,6393,342,185,54,"May 3, 1849","September 10, 1849",151,281,53.423933,-7.94069
+Connaught,Roscommon,Boyle,3234,14,8,57.1,"September 20, 1849","October 11, 1849",291,312,53.972208,-8.297276
+Connaught,Roscommon,Roscommon,3349,116,68,58.6,"February 7, 1849","September 22, 1849",66,293,53.627591,-8.189096
+Connaught,Sligo,Sligo,14318,392,196,50,"August 7, 1849","October 8, 1849",247,309,54.27661,-8.476089
+Munster,Tipperary,Caher,3668,116,65,56,"March 16, 1849","May 29, 1849",103,177,52.37453,-7.925247
+Munster,Tipperary,Carriel-on-suir,11049,266,126,47.3,"April 7, 1849","October 6, 1849",125,307,52.34765,-7.418971
+Munster,Tipperary,Cashel,8027,0,0,0,0,0,0,0,52.516757,-7.887675
+Munster,Tipperary,Clogheen,2049,108,56,51.8,"April 7, 1849","May 23, 1849",125,171,52.277079,-7.995103
+Munster,Tipperary,Clonmel,13505,440,184,41.8,"March 23, 1849","July 12, 1849",110,221,52.355817,-7.690255
+Munster,Tipperary,Fethard,3915,10,9,90,"March 28, 1849","April 10, 1849",115,128,52.470977,-7.696789
+Munster,Tipperary,Nenagh,8618,400,240,60,"March 22, 1849","May 8, 1849",109,156,52.864297,-8.197556
+Munster,Tipperary,Roscrea,5275,90,39,48.3,"April 30, 1849","May 4, 1849",148,152,52.955179,-7.79847
+Munster,Tipperary,Templemore,3685,83,35,42.1,"April 28, 1849","July 26, 1849",146,235,52.794802,-7.839861
+Munster,Tipperary,Thurles,7523,489,259,52.9,"April 17, 1849","June 10, 1850",135,554,52.680106,-7.804442
+Munster,Tipperary,Tipperary,7370,176,80,45.4,"March 21, 1849","November 25, 1849",108,357,52.473789,-8.161851
+Ulster,Tyrone,Cookstown,3006,0,0,0,0,0,0,0,54.64102,-6.74429
+Ulster,Tyrone,Dungannon,3801,0,0,0,0,0,0,0,54.50425,-6.76536
+Ulster,Tyrone,Omagh,2947,0,0,0,0,0,0,0,54.59657,-7.30691
+Ulster,Tyrone,Strabane,4704,0,0,0,0,0,0,0,54.827269,-7.463579
+Munster,Waterford,Cappoquin,2341,17,8,47,"April 25, 1849","September 12, 1849",143,283,52.146427,-7.851625
+Munster,Waterford,Dungarvan,12382,723,344,47.4,"April 29, 1849","September 11, 1849",147,282,52.093676,-7.620363
+Munster,Waterford,Lismore,3007,91,53,58.2,"May 2, 1849","July 31, 1849",150,240,52.135818,-7.93768
+Munster,Waterford,Portlaw,3647,72,13,18,"May 13, 1849","August 21, 1849",161,261,52.288199,-7.314441
+Munster,Waterford,Tallow,2969,35,19,54.2,"April 29, 1849","August 27, 1849",147,267,52.092141,-8.00703
+Munster,Waterford,Waterford,29288,522,294,56.3,"April 15, 1849","September 7, 1849",133,278,52.25227,-7.127206
+Leinster,Westmeath,Moate,2095,0,0,0,0,0,0,0,53.394999,-7.718619
+Leinster,Westmeath,Mullingar,4569,190,109,57.3,"April 8, 1849","June 1, 1849",126,180,53.525933,-7.338138
+Leinster,Wexford,Enniscorthy,7016,339,139,41,"August 20, 1849","March 25, 1850",260,477,52.502197,-6.56613
+Leinster,Wexford,Gorey,3365,298,121,40.6,"April 27, 1849","March 12, 1850",145,464,52.675735,-6.294302
+Leinster,Wexford,New Ross,7543,180,96,53.3,"February 16, 1849","December 27, 1849",75,389,52.396204,-6.94719
+Leinster,Wexford,Wexford,11252,188,76,40.4,"September 4, 1849","March 16, 1850",275,468,52.336916,-6.463338
+Leinster,Wicklow,Arklow,3254,0,0,0,0,0,0,0,52.797693,-6.159929
+Leinster,Wicklow,Wicklow,2794,0,0,0,0,0,0,0,52.980821,-6.044589

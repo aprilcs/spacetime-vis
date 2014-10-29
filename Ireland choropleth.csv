@@ -1,0 +1,53 @@
+ID_0,ISO,NAME_0,ID_1,NAME_1,NL_NAME_1,VARNAME_1,TYPE_1,ENGTYPE_1,ID_2,NAME_2,VARNAME_2,NL_NAME_2,HASC_2,CC_2,TYPE_2,ENGTYPE_2,VALIDFR_2,VALIDTO_2,REMARKS_2,Shape_Leng,Shape_Area,POP,CASES,DEATHS,Cases/Pop,Case fatal
+109,IRL,Ireland,1,Carlow,,Ceatharlach,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,15731,372,189,2364.757480,0.50800
+109,IRL,Ireland,2,Cavan,,An Cabhﬂn,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,8244,0,0,0.000000,0.00000
+109,IRL,Ireland,3,Clare,,An Clﬂr,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,19261,578,262,3000.882610,0.45320
+109,IRL,Ireland,4,Cork,,Corcaigh,Traditional County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,194760,5846,2648,3001.643040,0.45290
+109,IRL,Ireland,5,Donegal,,D? na nGall|Tyrconnel,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,5674,0,0,0.000000,0.00000
+109,IRL,Ireland,6,Dublin,,Baile ?tha Cliath,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,261366,4367,1855,1670.837060,0.42470
+109,IRL,Ireland,7,Galway,,Gaillimh,Traditional County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,51993,4452,2099,8562.691130,0.47140
+109,IRL,Ireland,8,Kerry,,Ciarra,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,24474,623,364,2545.558550,0.58420
+109,IRL,Ireland,9,Kildare,,Cill Dara,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,10398,168,58,1615.695320,0.34520
+109,IRL,Ireland,10,Kilkenny,,Cill Chainnigh,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,30296,1159,577,3825.587530,0.49780
+109,IRL,Ireland,11,Laoighis,,Laois|Leix|Queens,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,11388,13,4,114.155251,0.30760
+109,IRL,Ireland,12,Leitrim,,Liatroim,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,0,0,0,0.000000,0.00000
+109,IRL,Ireland,13,Limerick,,Luimneach,Traditional County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,72414,2054,966,2836.468080,0.47030
+109,IRL,Ireland,14,Longford,,An Longfort,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,7374,240,145,3254.678600,0.60410
+109,IRL,Ireland,15,Louth,,L,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,33721,558,165,1654.755190,0.29560
+109,IRL,Ireland,16,Mayo,,Maigh Eo,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,19192,1076,387,5606.502700,0.35960
+109,IRL,Ireland,17,Meath,,An Mh,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,12102,374,177,3090.398280,0.47320
+109,IRL,Ireland,18,Monaghan,,Muineachﬂn,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,9141,130,59,1422.163870,0.45380
+109,IRL,Ireland,19,Offaly,,U›bh Fhail›|Kings,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,18612,841,397,4518.590150,0.47200
+109,IRL,Ireland,20,Roscommon,,Ros Comﬂin,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,12976,472,261,3637.484580,0.55290
+109,IRL,Ireland,21,Sligo,,Sligeach,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,14318,392,196,2737.812540,0.50000
+109,IRL,Ireland,22,Tipperary,,Tiobraid ?rann,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,74684,2178,1093,2916.287290,0.50180
+109,IRL,Ireland,23,Waterford,,Port Lﬂirge,Traditional County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,53634,1460,731,2722.153850,0.50060
+109,IRL,Ireland,24,Westmeath,,An Iarmh,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,6664,190,109,2851.140450,0.57360
+109,IRL,Ireland,25,Wexford,,Loch Garman,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,29176,1005,432,3444.612010,0.42980
+109,IRL,Ireland,26,Wicklow,,Cill Mhantﬂin,Administrative County,County,0,,,,,,,,,,,0.00000000000,0.00000000000,6048,0,0,0.000000,0.00000
+80,GBR,Antrim,27,Antrim,,,,,14048,Antrim,,,GB.AN,,District,District,197310,Present,,1.40540975806,0.07766885650,2645,179,24,6767.485820,0.13400
+80,GBR,Down,28,Ards,,,,,14049,Ards,,,GB.AD,,District,District,197310,Present,,3.77488403789,0.05267666925,28478,348,158,1221.995920,0.45400
+80,GBR,Armagh,29,Armagh,,,,,14050,Armagh,,,GB.AM,,District,District,197310,Present,,1.40499052976,0.08996671370,30654,704,271,2296.600770,0.38490
+80,GBR,Antrim,30,Ballymena,,,,,14051,Ballymena,,,GB.BL,,District,District,197310,Present,,1.59682503333,0.09025607192,5549,141,54,2540.998370,0.38290
+80,GBR,Antrim,31,Ballymoney,,,,,14052,Ballymoney,,,GB.BY,,District,District,197310,Present,,1.25021874382,0.05822501465,2645,179,24,6767.485820,0.13400
+80,GBR,Down,32,Banbridge,,,,,14053,Banbridge,,,GB.BB,,District,District,197310,Present,,1.28911061970,0.06380223892,3324,0,0,0.000000,0.00000
+80,GBR,United Kingdom,33,Belfast,,,,,14054,Belfast,,,GB.BF,,District,District,197310,Present,,0.87878911631,0.01615109393,63625,2705,969,4251.473470,0.35820
+80,GBR,United Kingdom,34,Carrickfergus,,,,,14055,Carrickfergus,,,GB.CF,,District,District,197310,Present,,0.63277569479,0.01086422590,9379,0,0,0.000000,0.00000
+80,GBR,Down,35,Castlereagh,,,,,14056,Castlereagh,,,GB.CS,,District,District,197310,Present,,0.57064741741,0.01303750709,28478,348,158,1221.995920,0.45400
+80,GBR,United Kingdom,36,Coleraine,,,,,14057,Coleraine,,,GB.CL,,District,District,197310,Present,,1.55450481987,0.06806949472,6255,3,1,47.961630,0.33330
+80,GBR,United Kingdom,37,Cookstown,,,,,14058,Cookstown,,,GB.CK,,District,District,197310,Present,,1.47588187988,0.08503360905,3006,0,0,0.000000,0.00000
+80,GBR,Armagh,38,Craigavon,,,,,14059,Craigavon,,,GB.CR,,District,District,197310,Present,,1.11482574105,0.05304006345,30654,704,271,2296.600770,0.38490
+80,GBR,United Kingdom,39,Derry,,,,,14060,Derry,Londonderry,,GB.LD,,District,London Borough (city),,Present,,1.38663810177,0.05313878656,15150,58,14,382.838283,0.24130
+80,GBR,United Kingdom,40,Down,,,,,14061,Down,,,GB.DW,,District,District,197310,Present,,3.42190418907,0.09004712993,28478,348,158,1221.995920,0.45400
+80,GBR,United Kingdom,41,Dungannon,,,,,14062,Dungannon,,,GB.DN,,District,District,197310,Present,,2.15218394691,0.10594395444,3801,0,0,0.000000,0.00000
+80,GBR,United Kingdom,42,Fermanagh,,,,,14063,Fermanagh,,,GB.FE,,District,District,197310,Present,,3.03327892625,0.25917994542,5686,0,0,0.000000,0.00000
+80,GBR,United Kingdom,43,Larne,,,,,14064,Larne,,,GB.LR,,District,District,197310,Present,,2.09585668975,0.04785601219,3345,0,0,0.000000,0.00000
+80,GBR,United Kingdom,44,Limavady,,,,,14065,Limavady,,,GB.LM,,District,District,197310,Present,,1.60831169895,0.08469736334,3101,2,2,64.495324,1.00000
+80,GBR,United Kingdom,45,Lisburn,,,,,14066,Lisburn,,,GB.LB,,District,District,197310,Present,,1.19457527595,0.06264173712,7524,565,196,7509.303560,0.34690
+80,GBR,Derry,46,Magherafelt,,,,,14067,Magherafelt,,,GB.MF,,District,District,197310,Present,,1.42362146461,0.07859236291,24506,63,17,257.079898,0.26980
+80,GBR,United Kingdom,47,Moyle,,,,,14068,Moyle,,,GB.MY,,District,District,197310,Present,,2.32954442534,0.07300805250,92067,3590,1243,3899.334180,0.34620
+80,GBR,United Kingdom,48,Mourne,,,,,14069,Newry and Mourne,Mourne,,GB.NM,,District,District,197310,Present,,2.58239083878,0.12540443582,28478,348,158,1221.995920,0.45400
+80,GBR,United Kingdom,49,Newtownabbey,,,,,14070,Newtownabbey,,,GB.NW,,District,District,197310,Present,,0.73787595591,0.01943213128,92067,3590,1243,3899.334180,0.34620
+80,GBR,United Kingdom,50,North Down,,,,,14071,North Down,,,GB.ND,,District,District,197310,Present,,0.81220306477,0.01227289883,28478,348,158,1221.995920,0.45400
+80,GBR,United Kingdom,51,Omagh,,,,,14072,Omagh,,,GB.OM,,District,District,197310,Present,,2.13473644998,0.16151624158,2947,0,0,0.000000,0.00000
+80,GBR,United Kingdom,52,Strabane,,,,,14073,Strabane,,,GB.SB,,District,District,197310,Present,,2.57237934225,0.12179574894,4704,0,0,0.000000,0.00000
