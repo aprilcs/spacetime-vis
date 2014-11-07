@@ -3,8 +3,8 @@ setwd("C:/Users/April/Desktop/MSc project/github/spacetime-vis")
 library(maptools)
 library(spdep)
 
-IreMap <- readShapeSpatial(fn="Ireland choropleth")
-
+IreMap <- readShapeSpatial(fn="Ireland superfile1")
+windows()
 plot(IreMap, border = "black", lwd = 1)
 
 Ire.nb <- poly2nb(IreMap, queen = FALSE)
@@ -12,7 +12,7 @@ str(Ire.nb)
 
 coordinates(IreMap)
 
-text(coordinates(IreMap), labels=c(1:51), cex=0.8)
+text(coordinates(IreMap), labels=c(1:32), cex=0.8)
 
 # generate distance based neighbourhoods of 50km and 100km and 120km
 # Ire.nb.20km <- dnearneigh(coordinates(IreMap), d1 = 0, d2 = 20000, longlat=NULL)
@@ -22,7 +22,8 @@ text(coordinates(IreMap), labels=c(1:51), cex=0.8)
 
 ##### Analysis of disease clustering with regional data #####
 
-IrePoint <- read.table("Ireland choropleth.txt", header=T)
+IrePoint <- read.table("Ireland county.txt", header=T)
+
 
 names(IrePoint)
 #[1] "ID_1"       "NAME_1"     "POP"        "CASES"      "DEATHS"     "Cases.Pop"  "Case_fatal"
@@ -32,7 +33,7 @@ names(my.dat) <- c("x", "y")
 
 my.dat$POP <- IrePoint$POP
 my.dat$CASES <- IrePoint$CASES
-my.dat$raw <- my.dat$CASES / (my.dat$POP + 1)
+my.dat$raw <- my.dat$CASES / (my.dat$POP)
 
 #library(stats)
 #na.fail(my.dat$raw)
@@ -52,7 +53,7 @@ moran.test(my.dat$raw, nb2listw(Ire.nb), alternative = "two.sided")
 
 #### Smoothing #####
 
-Cluster.smooth <- EBest(my.dat$CASES, my.dat$POP + 1, family="binomial")
+Cluster.smooth <- EBest(my.dat$CASES, my.dat$POP, family="binomial")
 
 my.dat$raw <- Cluster.smooth$raw
 my.dat$estmm <- Cluster.smooth$estmm
@@ -91,6 +92,51 @@ Ire.acf <- sp.correlogram(Ire.nb, my.dat$estmm, order=6, method="I", zero.policy
 print(Ire.acf)
 plot(Ire.acf)
 
+##### Disease cluster detection ######
+
+IrePoint <- read.table("Ireland county.txt", header=T)
+
+names(IrePoint)
+is.na(IrePoint)
+nrow(IrePoint)
+
+library(maptools)
+
+IreMap <- readShapeSpatial(fn="Ireland superfile1")
+names(IreMap)
+my.dat2 <- as.data.frame(coordinates(IreMap))
+names(my.dat2)
+names(my.dat2) <- c("x","y")
+nrow(my.dat2)
+my.dat2$n <- IrePoint$POP
+my.dat2$m <- IrePoint$CASES
+
+head(my.dat2)
+is.na(my.dat2)
+library(SpatialEpi)
+my.geo <- my.dat2[c("x","y")]
+my.geo
+is.na(my.geo)
+head(my.geo)
+nrow(my.geo)
+
+test <- as.data.frame(cbind(my.dat2$x,my.dat2$y,my.dat2$n,my.dat2$m))
+names(test) <- c("x", "y","n", "m")
+my.geo <- test[c("x","y")]
+
+my.cluster <- kulldorff(geo=my.geo, cases=test$m, population=test$n, pop.upper.bound=0.5, alpha.level = 0.10, expected.cases=NULL, 
+                        n.simulations=999, plot=FALSE)
+my.cluster
+# Error in if (new.secondary.cluster$p.value > alpha.level) { : missing value where TRUE/FALSE needed
+
+
+
+
+
+
+
+
+
 ##### ANALYSIS OF DISEASE CLUSTERING WITH SPATIAL POINT PATTERN DATA ########
 
 pts <- read.table("IRE-SPP.txt", header=T)
@@ -125,13 +171,14 @@ points(ptsp$x , ptsp$y, cex=0.6, pch=16, col="red")
 library(splancs)
 pts.p <- as.points(ptsp$x, ptsp$y)
 pts.n <- as.points(ptsn$x, ptsn$y)
+length(pts.p)
 pts.all <- as.points(pts$x, pts$y)
 pts.poly <- read.table(file.choose(), header=T)
   
-Ire.bdr <- read.table(file.choose(), header=T) # C:\Users\April\Desktop\MSc project\github\spacetime-vis\ireland_boundary_monster_out (2)
+# Ire.bdr <- read.table(file.choose(), header=T) # C:\Users\April\Desktop\MSc project\github\spacetime-vis\ireland_boundary_monster_out (2)
 
 #### Estimate k-functions #####
 
 s <- seq(from=0, to=150000, length=21)
 pts.poly <- as.points(pts.poly)
-Kpos <- khat(pts.p, pts.poly, s)
+#Kpos <- khat(pts.p, pts.poly, s)
